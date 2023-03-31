@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrelqmacedo" alt="andrelqmacedo" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/andrequeirogaa" target="blank"><img src="https://img.shields.io/twitter/follow/andrequeirogaa?logo=twitter&style=for-the-badge" alt="andrequeirogaa" /></a> </p>
 
 - 🌱 I’m currently learning **Java and Spring**

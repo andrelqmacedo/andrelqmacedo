@@ -26,5 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrelqmacedo&" alt="andrelqmacedo" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=andrelqm&bg_color=000000&color=006400&line=00FF00&point=32CD32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 

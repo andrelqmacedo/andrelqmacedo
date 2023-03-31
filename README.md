@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm André!</h1>
 <h3 align="center">I´ve been a attorney for the last 7 years. Currently, I am seeking new opportunities and challenges in a career as a developer, focusing on backend development.</h3>
 
@@ -25,4 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrelqmacedo&" alt="andrelqmacedo" /></p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=andrelqm&bg_color=000000&color=006400&line=00FF00&point=32CD32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

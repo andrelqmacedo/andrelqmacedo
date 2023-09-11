@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm André!</h1>
 <h3 align="center">I´ve been a attorney for the last 7 years. Currently, I am seeking new opportunities and challenges in a career as a developer, focusing on backend development.</h3>
 
-
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
-
 <p align="left"> <a href="https://twitter.com/andrequeirogaa" target="blank"><img src="https://img.shields.io/twitter/follow/andrequeirogaa?logo=twitter&style=for-the-badge" alt="andrequeirogaa" /></a> </p>
 
 - 🌱 I’m currently learning **Java with Spring and Ruby**

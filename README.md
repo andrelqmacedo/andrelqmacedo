@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/andrequeirogaa" target="blank"><img src="https://img.shields.io/twitter/follow/andrequeirogaa?logo=twitter&style=for-the-badge" alt="andrequeirogaa" /></a> </p>
 
-- 🌱 I’m currently learning **Java/Spring and Ruby and Ruby on Rails **
+- 🌱 I’m currently learning **Java/Spring and Ruby and Ruby on Rails**
 
 - 📫 How to reach me **alqmacedo@gmail.com**
 

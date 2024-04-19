@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm André!</h1>
 
 
-<p align="left"> <a href="https://twitter.com/andrequeirogaa" target="blank"><img src="https://img.shields.io/twitter/follow/andrequeirogaa?logo=twitter&style=for-the-badge" alt="andrequeirogaa" /></a> </p>
 
 - 🌱 I’m currently learning **Ruby on Rails**
 

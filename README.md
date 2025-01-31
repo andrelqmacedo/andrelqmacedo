@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently working with: **Ruby on Rails**
 
 - 📫 How to reach me **alqmacedo@gmail.com**
 
